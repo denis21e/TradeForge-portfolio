@@ -26,13 +26,6 @@ The platform includes features designed to help traders:
 
 The goal is to bring trade journaling and performance analysis together in a single, organized platform.
 
-## Screenshots & Demonstration
-
-Screenshots and a demonstration video are provided to showcase the application's interface, functionality, and user experience.
-
-**Application Screenshots**
-
-Add your existing screenshots here.
 
 **Demo Video**
 
