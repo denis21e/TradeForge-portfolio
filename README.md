@@ -29,9 +29,7 @@ The goal is to bring trade journaling and performance analysis together in a sin
 
 **Demo Video**
 
-Add your demonstration video or its hosted link here.
-
-*Note: The demonstration uses selected application views and does not expose the private source code.*
+https://github.com/user-attachments/assets/df282a65-8cd2-4161-a068-5155ddb01381
 
 ---
 
